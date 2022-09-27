@@ -9,11 +9,9 @@ import * as dat from 'lil-gui'
 
 // Colors
 const fogColor = '#262837';
-const wallColor = '#acae82';
 const roofColor = '#b35f45';
 const bushColor = '#89c854';
 const graveColor = '#b2b6b1';
-const floorColor = '#a9c388';
 const lightColor = '#b9d5ff';
 const doorLightColor = '#ff7d46'
 const ghost1Color = '#ff00ff';
